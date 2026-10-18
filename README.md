@@ -1,2 +1,3 @@
-# mt7601u-hacking
-running code on MT7601U
+# MediaTek MT7601U
+The MediaTek MT7601U is a WiFi chip based on Andes ND32
+<br>
